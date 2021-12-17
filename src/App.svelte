@@ -3,7 +3,7 @@
   import Display from "./components/Display.svelte"
   import Form from "./components/Form.svelte"
 
-  const url = "http://localhost:10000/todos"
+  const url = "https://backendtodopractice.herokuapp.com/todos"
 
   // state
   let showForm = false 
